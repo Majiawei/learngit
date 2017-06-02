@@ -7,3 +7,5 @@ Creating a new branch is quick and simple.
 2017.5.29实现自动登陆问题
 			实现添加管理员功能
 			listadmin->...
+2017.6.1实现分类功能添加，修改，删除
+		实现单文件以及多个文件上传功能
