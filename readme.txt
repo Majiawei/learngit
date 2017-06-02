@@ -9,3 +9,4 @@ Creating a new branch is quick and simple.
 			listadmin->...
 2017.6.1实现分类功能添加，修改，删除
 		实现单文件以及多个文件上传功能
+2017.6.2后台：添加教室功能实现，添加图片附件功能有bug
